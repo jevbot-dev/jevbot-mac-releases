@@ -17,7 +17,6 @@
 | 微信 | [jevbot-wechat-mac-releases](https://github.com/jevbot-dev/jevbot-wechat-mac-releases/releases/latest) | 已适配 |
 | 企业微信 | [jevbot-wework-mac-releases](https://github.com/jevbot-dev/jevbot-wework-mac-releases/releases/latest) | 已适配 |
 | Telegram | [jevbot-telegram-mac-releases](https://github.com/jevbot-dev/jevbot-telegram-mac-releases/releases/latest) | 已适配 |
-| Palmier Pro | [jevbot-palmier-mac-releases](https://github.com/jevbot-dev/jevbot-palmier-mac-releases/releases/latest) | 已适配 |
 | 剪映 | — | 未适配 |
 
 系统要求 macOS 14 及以上。安装包已用 Developer ID 签名并经 Apple 公证。
